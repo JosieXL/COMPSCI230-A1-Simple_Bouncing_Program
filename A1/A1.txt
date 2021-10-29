@@ -1,0 +1,21 @@
+Name: Xiaolin Li (Josie)
+UPI: xli556
+ID number: 455398598
+
+1. Time take me overall
+Around 13 hours and 40 minus.
+
+2. Which areas of the assignment did you find easy?
+I found easy when I did four of the subclasses, i.e. the MovingRectangle, MovingSquare, MovingEllipse and MovingCircle. 
+
+3. Which ones were difficult?
+I found the PixelArt one was difficult, I stuck on that for about two hours! And also the quad circles's draw method is a hard one.
+
+4. Which topics in the course did the assignment most help you understand?
+The assignment I think most help me understand how to write the coding for Swing GUI Application,
+and also it let me have a deeper understanding of the superclass and subclasses.
+
+5. Comment
+For the bouns question, I did create a new shape with a rounded rectangle with two lines and a line of string inside.
+I also planed to add the music into the Swing GUI Application, but I cannot do that. 
+Since sun.audio.* is not meant to be imported, and this stop me to do what I want even though I had written all relative codes.
